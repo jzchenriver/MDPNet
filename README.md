@@ -1,4 +1,4 @@
-# [Infrared Physics and Technology] Designing and learning a lightweight network for infrared small target detection via dilated pyramid and semantic distillation
+# [INFPHY] Designing and learning a lightweight network for infrared small target detection via dilated pyramid and semantic distillation
 
 https://www.sciencedirect.com/science/article/abs/pii/S1350449523001299
 
