@@ -1,4 +1,4 @@
-# [INFPHY] Designing and learning a lightweight network for infrared small target detection via dilated pyramid and semantic distillation
+# [INFPHY] Designing and Learning a Lightweight Network for Infrared Small Target Detection via Dilated Pyramid and Semantic Distillation
 
 https://www.sciencedirect.com/science/article/abs/pii/S1350449523001299
 
